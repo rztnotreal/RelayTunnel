@@ -1,0 +1,10 @@
+{
+  "name": "relay-tunnel-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "RelayTunnel backend with Zero-Knowledge VLESS Key Protection",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
